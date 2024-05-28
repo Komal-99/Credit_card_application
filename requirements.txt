@@ -18,7 +18,7 @@ click
 colorama
 dataclasses-json
 dnspython
-dotenv
+
 filelock
 Flask
 Flask-Cors
