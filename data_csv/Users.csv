@@ -1,0 +1,63 @@
+num,customer_id,Name,age,Email,city,card_type,credit_limit,company,job_segment
+1,A1,Komal,76,komal20csu306@ncuinida.edu,BANGALORE,Gold,500000,Self Employed,Self Employed
+2,A2,Suraj,71,suraj20csu302@ncuindia.edu,CALCUTTA,Silver,100000,C2,Salaried_MNC
+3,A3,Monika,34,monika20csu290@ncuindia.edu,COCHIN,Platimum,10000,C3,Salaried_Pvt
+4,A4,Mayank,47,abc.gmail.com,MUMBAI,Platimum,10001,C4,Govt
+5,A5,Aman,56,delhia.gmail.com,BANGALORE,Platimum,10002,C5,Normal Salary
+6,A6,Shubh,70,delhiea.gmail.com,DELHI,Silver,100000,Self Employed,Self Employed
+7,A7,Kanika,26,elhia.gmail.com,COCHIN,Silver,100001,C7,Salaried_MNC
+8,A8,Kartik,67,delahia.gmail.com,PATNA,Silver,100002,C8,Salaried_Pvt
+9,A9,Mohit,79,xyz.gmail.com,CHENNAI,Silver,100003,C9,Govt
+10,A10,Amado,54,hia.gmail.com,CALCUTTA,Gold,500000,C10,Normal Salary
+11,A11,Davi,35,ahm.gmail.com,COCHIN,Gold,500000,C11,Normal Salary
+12,A12,Nino,51,walia.gmail.com,MUMBAI,Gold,500000,Self Employed,Self Employed
+13,A13,Pavel,29,delhian.gmail.com,BANGALORE,Gold,500000,C13,Salaried_MNC
+14,A14,Gil,18,korea.gmail.com,BANGALORE,Gold,500000,C14,Salaried_Pvt
+15,A15,Poul,25,mns.gmail.com,CALCUTTA,Gold,500000,C15,Govt
+16,A16,Jiles,52,jhg.gmail.com,COCHIN,Gold,500000,C16,Normal Salary
+17,A17,Arnie,78,del.gmail.com,MUMBAI,Gold,500000,Self Employed,Self Employed
+18,A18,Daman,34,dea.gmail.com,BANGALORE,Silver,100000,C18,Salaried_MNC
+19,A19,Kamaji,27,them.gmail.com,BANGALORE,Platimum,10000,C19,Salaried_Pvt
+20,A20,Boba,27,thepa.gmail.com,CALCUTTA,Platimum,10001,C20,Govt
+21,A21,Pears,57,delhon.gmail.com,COCHIN,Platimum,10002,C21,Normal Salary
+22,A22,Spud,27,anm.gmail.com,MUMBAI,Silver,100000,Self Employed,Self Employed
+23,A23,Mellen,51,dhya.gmail.com,BANGALORE,Silver,100001,C5,Salaried_MNC
+24,A24,Mellin,53,ekhkia.gmail.com,DELHI,Silver,100002,C6,Salaried_Pvt
+25,A25,Sariq,35,tom.gmail.com,COCHIN,Silver,100003,C7,Govt
+26,A26,Egide,38,shwet.gmail.com,PATNA,Gold,500000,C8,Normal Salary
+27,A27,Dajaun,24,ahmd.gmail.com,CHENNAI,Gold,500000,Self Employed,Self Employed
+28,A28,Zixuan,36,delha.gmail.com,TRIVANDRUM,Gold,500000,C10,Salaried_MNC
+29,A29,Ishaan,72,delta.gmail.com,CALCUTTA,Gold,500000,C11,Salaried_Pvt
+30,A30,Kanan,25,damn.gmail.com,BANGALORE,Gold,500000,C12,Govt
+31,A31,Atharv,63,dwes.gmail.com,CALCUTTA,Gold,500000,C13,Normal Salary
+32,A32,Navi,41,komail20csu306@ncuinida.edu,COCHIN,Gold,500000,Self Employed,Self Employed
+33,A33,Dhruv,19,suraij20csu302@ncuindia.edu,MUMBAI,Platimum,10002,C15,Salaried_MNC
+34,A34,Aarna,34,moniika20csu290@ncuindia.edu,CALCUTTA,Platimum,100000,C16,Salaried_Pvt
+35,A35,Jai,55,abcc.gmail.com,COCHIN,Platimum,100001,C17,Govt
+36,A36,Amar,60,delhha.gmail.com,MUMBAI,Platimum,100002,C18,Normal Salary
+37,A37,Agastya,61,delhieaa.gmail.com,BANGALORE,Platimum,100003,C19,Normal Salary
+38,A38,Nila,47,elhiaa.gmail.com,CHENNAI,Platimum,500000,Self Employed,Self Employed
+39,A39,Tenzin,78,delahaia.gmail.com,TRIVANDRUM,Platimum,500000,C21,Salaried_MNC
+40,A40,Tamia,37,xyzz.gmail.com,CALCUTTA,Platimum,500000,C22,Salaried_Pvt
+41,A41,Aditi,18,hiaa.gmail.com,COCHIN,Platimum,500000,C23,Govt
+42,A42,Ananya,50,ahmm.gmail.com,MUMBAI,Gold,500000,C24,Normal Salary
+43,A43,Ajay,21,waliaa.gmail.com,BANGALORE,Gold,500000,Self Employed,Self Employed
+44,A44,Ambar,28,delhiann.gmail.com,DELHI,Gold,500000,C6,Salaried_MNC
+45,A45,Anajli,67,koreaa.gmail.com,COCHIN,Gold,500000,C7,Salaried_Pvt
+46,A46,Reva,49,mnss.gmail.com,PATNA,Silver,100000,C8,Govt
+47,A47,Aja,28,jhgg.gmail.com,CHENNAI,Platimum,10000,C9,Normal Salary
+48,A48,Kalli,42,dell.gmail.com,TRIVANDRUM,Platimum,10001,Self Employed,Self Employed
+49,A49,Marjane,39,deaa.gmail.com,CALCUTTA,Platimum,10002,C11,Salaried_MNC
+50,A50,Kavi,69,thm.gmail.com,COCHIN,Platimum,100000,C12,Salaried_Pvt
+51,A51,Jasleen,59,thea.gmail.com,MUMBAI,Platimum,100001,C13,Govt
+52,A52,Ishani,50,on.gmail.com,BANGALORE,Platimum,100002,C14,Normal Salary
+53,A53,Avan,21,anym.gmail.com,DELHI,Platimum,100003,C15,Normal Salary
+54,A54,Kum,46,dya.gmail.com,COCHIN,Platimum,500000,C16,Normal Salary
+55,A55,Tulsi,43,ekhia.gmail.com,PATNA,Platimum,500000,C17,Normal Salary
+56,A56,Ashwin,60,tomy.gmail.com,CHENNAI,Platimum,500000,C18,Normal Salary
+57,A57,Rani,37,shet.gmail.com,TRIVANDRUM,Silver,100001,C19,Normal Salary
+58,A58,Cangy,32,ahd.gmail.com,CALCUTTA,Silver,100002,C20,Normal Salary
+59,A59,Aadhira,74,kahmon.gmail.com,BANGALORE,Silver,100003,C21,Normal Salary
+60,A60,Shylah,28,deha.gmail.com,CALCUTTA,Gold,500000,C22,Salaried_Pvt
+61,A61,Farid,44,dela.gmail.com,COCHIN,Gold,500000,C23,Govt
+62,A62,Shaila,39,dan.gmail.com,MUMBAI,Gold,500000,C24,Normal Salary
