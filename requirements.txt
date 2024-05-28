@@ -92,7 +92,6 @@ Pygments
 pymongo
 pyparsing
 python-dateutil
-python-dotuth
 pytz
 PyYAML
 referencing
