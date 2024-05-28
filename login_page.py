@@ -1,7 +1,7 @@
 import streamlit as st
 from authenticate import login, register
 from dashboard import main_app
-
+!pip install azure.ai.formrecognizer
 def main():
     st.sidebar.title("Navigation")
     choice = st.sidebar.selectbox('Login/Signup', ['Login', 'Register'])
