@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+
 import os
 import pandas as pd
 import sqlite3
@@ -11,11 +11,11 @@ from langchain.chains import ConversationChain, LLMChain
 from langchain.memory import ConversationBufferMemory
 from langchain_google_genai import ChatGoogleGenerativeAI
 from RSAEncryption import enc
-load_dotenv()
+
 app = Flask(__name__)
 CORS(app)
 
-genai.configure(api_key=os.getenv('GENAI_API_KEY'))
+genai.configure(api_key="AIzaSyB-yonXYg46BDnEahFHy_0ZSi0BwLNnI-w")
 
 ## Define Your Prompt
 prompt=[
