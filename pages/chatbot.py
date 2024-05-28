@@ -45,7 +45,7 @@ def app():
 
     if st.button("Send"):
         if user_input:
-            response = requests.post("http://localhost:5000/credit_bot", json={"ques": user_input})
+            response = requests.post("https://credit-card-application-j31a.onrender.com/credit_bot", json={"ques": user_input})
             if response.status_code == 200:
                 answer = response.json().get("answer", "No response from API")
                 st.session_state.chat_history.append({"role": "user", "message": user_input})
