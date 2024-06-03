@@ -23,7 +23,7 @@ def handle_auth(choice):
             if login(username, password):
                 st.session_state['logged_in'] = True
                 st.session_state['username'] = username
-                st.experimental_rerun()
+                st.rerun()
             else:
                 st.error('Incorrect username or password')
     elif choice == 'Register':
@@ -45,7 +45,7 @@ def handle_auth(choice):
 
                 st.success('Registered successfully. Please log in.')
                 st.session_state['navigation'] = 'Login'  # Change navigation to login
-                st.experimental_rerun()
+                st.rerun()
 
 if __name__ == "__main__":
     main()
