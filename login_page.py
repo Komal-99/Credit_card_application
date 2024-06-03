@@ -2,6 +2,7 @@ import streamlit as st
 from authenticate import login, register
 from dashboard import main_app
 def main():
+    st.title('Welcome to Credit Card Application')
     st.sidebar.title("Navigation")
     choice = st.sidebar.selectbox('Login/Signup', ['Login', 'Register'])
 
