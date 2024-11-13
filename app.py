@@ -15,7 +15,7 @@ from RSAEncryption import enc
 app = Flask(__name__)
 CORS(app)
 
-genai.configure(api_key="AIzaSyB-yonXYg46BDnEahFHy_0ZSi0BwLNnI-w")
+genai.configure(api_key="")
 
 ## Define Your Prompt
 prompt=[
